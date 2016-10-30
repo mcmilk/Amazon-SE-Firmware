@@ -6,7 +6,7 @@ This repository contains firmware binaries found in the GPL sources of these dev
 - Allnet ALL0333CJ
 
 File                | Annex        | Chipset   | Version
---------------------+--------------+-----------+--------
+--------------------|--------------|-----------|--------
 AmazonSE_332201.bin | ADSL Annex A | AMAZON-SE | 3.2.2
 AmazonSE_332D01.bin | ADSL Annex A | AMAZON-SE | 3.2.D
 AmazonSE_340711.bin | ADSL Annex A | AMAZON-SE | 4.0.7
